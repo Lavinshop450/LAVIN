@@ -1,10 +1,3 @@
-
----
-
-### 📁 فایل چهارم: `class-diagram.md`
-**کد زیر را کامل کپی کن و در فایل `class-diagram.md` پیست کن:**
-
-```text
 ```mermaid
 classDiagram
   class Customer {

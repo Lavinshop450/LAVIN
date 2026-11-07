@@ -1,20 +1,4 @@
 
 ```mermaid
-graph LR
-    %% بازیگرها
-    Customer((مشتری))
-    Admin((مدیر مزون))
-
-    %% موارد استفاده مشتری
-    Customer --> UC1(مرور محصولات)
-    Customer --> UC2(جستجو و فیلتر)
-    Customer --> UC3(مشاهده جزئیات)
-    Customer --> UC4(افزودن به سبد خرید)
-    Customer --> UC5(پرداخت سفارش)
-    Customer --> UC6(پیگیری سفارش)
-
-    %% موارد استفاده مدیر
-    Admin --> UC7(مدیریت محصولات)
-    Admin --> UC8(گزارش فروش)
-    Admin --> UC9(مدیریت سفارش‌ها)
+[![](https://mermaid.ink/img/pako:eNp1kstq20AUhl9lOCsZZKORbd0WheIs200hm-CNsKa2SaQxEwnSGkMCbeyFniMOJonwpds8x5G1y5PkSK6bliogwVy-_z9nfs4UBjIQ4EE_Ymyo_MmIffpSrhnrJZexDIXStPwn7nCF6yJtNA53H4NwHFUXWZHimtFiky_y2-P9UcuazQ_stMdLcp0vDuQj_iL2By5xVY-bGj7glio-5AtWfjdFSjx1UM-3Dx0u8zlm-ZyReIN31Ne7BToawTdlyyS4ZXhfqrZ4jxnDp_KdmNULu1r-jGvMyPoJV6QhlyUd7Opxi_Ai3VcZFen_eBXjb9b-kyb9q_qc_uYdbZ_ROys7SqiKt87X_df3rYeX65QCWzZAh6EaB-DFKhE6UPehX25hWpr1IR6JUPTBo6USQXLVDHx13hzIC6n6NDYz0k_86EzK8GihZDIcgffVv7ikXTIJ_FicjH0arzdERIFQPZlEMXjc5pUHeFO4Aq_ttAxumo5j2Jy7ZqetwzeCTLtldGzbcnjHcS1u8ZkO36uqRqvrdk2Htw3TNR1SWDqIYBxL9fkw3NWMz14Bm8M_eA?type=png)](https://mermaid.live/edit#pako:eNp1ks9q20AQxl9lmZMMttFKsiTrUCjOsb0Ucgm-CGtrm1has5EgrTEk0MY-6DniYJIIJ-41zzGybnmSjOS6bqkCEuyf3_fN7MfMYCADAR70I8aGyp-O2Kcv5ZqxXnIRy1AoTct_4hbXuCnSRmN_9zEIx1F1kRUpbhgtnvJlfnO4P2hZq_WBnfZ4SW7y5Z58wF_E_sAVrutxQ8N7fKaK9_mSld91kRJPHdTz5r7DVb7ALF8wEj_hLfX1bgFLI_i6bJkENwzvStUz3mHG8LF8J2b1wo6Wv-AGM7J-xDVpyGVFB9t63Ca8SHdVRkX6P17F-Jt1_qRJ_7o-p795V9tl9M7KjhKq4q3z7f7re-zh9SqlwFYNaMJQjQPwYpWIJlD3oV9uYVaa9SEeiVD0waOlEkFy2Qp8dd4ayIlUfRqbOemnfnQmZXiwUDIZjsD76k8uaJdMAz8WJ2OfxuuIiCgQqieTKAaP207lAd4MLsEz3bbODcN1dYfzrmGZTfhGkOG0dctxbJdbbtfmNp834XtVVW93uh3D5SY3daPjWOQmgnEs1ef9bFcjPn8DYB0_QA)
 '''
